@@ -387,8 +387,8 @@ img.animated.pulse {
 /* Floating WhatsApp Button */
 .whatsapp-float {
     position: fixed;
-    bottom: 20px; /* Jarak dari bawah */
-    left: 20px;   /* Jarak dari kiri */
+    bottom: 45px; /* Jarak dari bawah */
+    left: 45px;   /* Jarak dari kiri */
     z-index: 1000; /* Agar berada di atas konten lain */
     display: flex;
     align-items: center;
