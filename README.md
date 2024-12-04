@@ -11,8 +11,8 @@ Alat-alat yang saya gunakan untuk membuat website **Jagung Marning**:
 
 <br>
 
-# 1. HTML Codex untuk free template: [LINK](https://htmlcodex.com/template/)
-# 2. Project IDX untuk mengedit template: [LINK](https://idx.dev/)
+# 1. HTML Codex untuk free templatenya: [LINK](https://htmlcodex.com/template/)
+# 2. Project IDX untuk mengedit templatenya: [LINK](https://idx.dev/)
 # 3. Xendit untuk add fitur payment gateaway: [LINK](https://www.xendit.co/id/)
 # 4. Vercel untuk view real-time project website: [LINK](https://vercel.com/)
 
