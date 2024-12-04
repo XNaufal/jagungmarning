@@ -40,9 +40,9 @@ Tombol-tombol yang dimodifikasi di dalam website **Jagung Marning**:
 <br>
 <br>
 
+# View Navigation Bar
 ![Navbar](img/navbar.png)
 
-<br>
 <br>
 
 # View Navigasi Home
